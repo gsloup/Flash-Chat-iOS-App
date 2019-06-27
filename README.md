@@ -8,3 +8,7 @@ Shown are some picture of the GUI:
 
 
 ![Welcome Screen](https://i.imgur.com/5APa4oc.png) ![Log In Screen](https://i.imgur.com/PuFYbin.png) ![Basic Message View](https://i.imgur.com/mbp0xyq.png) ![Message View with Example Messages](https://i.imgur.com/f1SSa8t.png)
+
+
+This application was made in accordance with The Complete iOS App Development Bootcamp by Angela Yu.
+
